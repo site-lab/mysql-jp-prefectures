@@ -3,7 +3,7 @@
 ## テーブル名
 
 - prefectures
-
+```
 insert into prefectures (id,name,slug) VALUES
 (1,'北海道','hokkaido'),
 (2,'青森県','aomori'),
@@ -52,3 +52,4 @@ insert into prefectures (id,name,slug) VALUES
 (45,'宮崎県','miyazaki'),
 (46,'鹿児島県','kagoshima'),
 (47,'沖縄県','okinawa');
+```
